@@ -1,6 +1,7 @@
 # lab1
 Daria Bulavko
 273602
+РАБОТАААААЙ
 <<<<<<< HEAD
 
 New test DATA
